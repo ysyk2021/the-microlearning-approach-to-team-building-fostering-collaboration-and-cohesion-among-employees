@@ -1,5 +1,4 @@
-Chapter 2: Overview of Team Building: The Impact of Team Building on Organizational Performance
-===============================================================================================
+# The Impact of Team Building on Organizational Performance
 
 Effective team building is essential for organizations to achieve their goals and objectives. It involves creating a strong, cohesive team that works together to achieve common goals and objectives. In this chapter, we will explore the impact of team building on organizational performance.
 

@@ -1,5 +1,4 @@
-Chapter 6: Developing Collaborative Skills through Microlearning: Encouraging Diversity and Inclusion
-=====================================================================================================
+# Encouraging Diversity and Inclusion
 
 Developing collaborative skills is critical to building strong, cohesive teams, and microlearning can be an effective approach to developing these skills. In this chapter, we will explore techniques for encouraging diversity and inclusion through microlearning to develop collaborative skills.
 

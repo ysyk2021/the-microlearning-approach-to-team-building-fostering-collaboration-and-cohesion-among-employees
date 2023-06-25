@@ -1,5 +1,4 @@
-Chapter 9: Sustaining Microlearning Efforts: Adapting to Changes in the Workplace
-=================================================================================
+# Adapting to Changes in the Workplace
 
 The workplace is constantly changing, and organizations must adapt their microlearning efforts to keep up with these changes. Sustaining microlearning efforts requires continuous learning and improvement, including adapting to changing needs in the workplace. In this chapter, we will explore techniques for sustaining microlearning efforts by adapting to changes in the workplace.
 

@@ -1,5 +1,4 @@
-Chapter 8: Measuring and Evaluating Microlearning Effectiveness: Techniques for Measuring and Evaluating Microlearning Effectiveness
-====================================================================================================================================
+# Techniques for Measuring and Evaluating Microlearning Effectiveness
 
 Measuring and evaluating the effectiveness of microlearning initiatives is critical to ensuring that they are achieving their intended goals. In this chapter, we will explore techniques for measuring and evaluating microlearning effectiveness.
 

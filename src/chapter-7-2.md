@@ -1,5 +1,4 @@
-Chapter 7: Enhancing Team Cohesion through Microlearning: Promoting Trust and Respect
-=====================================================================================
+# Promoting Trust and Respect
 
 Team cohesion is critical to the success of any organization, and microlearning can be an effective approach to enhancing team cohesion. In this chapter, we will explore techniques for promoting trust and respect among team members through microlearning.
 

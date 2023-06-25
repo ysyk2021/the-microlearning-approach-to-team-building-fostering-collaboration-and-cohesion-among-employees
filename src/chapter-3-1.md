@@ -1,5 +1,4 @@
-Chapter 3: Understanding Microlearning: Techniques for Understanding Microlearning
-==================================================================================
+# Techniques for Understanding Microlearning
 
 Microlearning is a powerful approach to learning and development that can be used to foster collaboration and improve team building. In this chapter, we will explore techniques for understanding microlearning.
 

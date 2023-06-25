@@ -1,5 +1,4 @@
-Chapter 6: Developing Collaborative Skills through Microlearning: Facilitating Communication and Feedback
-=========================================================================================================
+# Facilitating Communication and Feedback
 
 Effective communication and feedback are critical to successful collaboration. Microlearning is an effective approach to team building that involves delivering bite-sized learning content to team members. By incorporating techniques for facilitating communication and feedback into microlearning, organizations can build strong, cohesive teams that work together effectively. In this chapter, we will explore techniques for developing collaborative skills through microlearning by facilitating communication and feedback.
 

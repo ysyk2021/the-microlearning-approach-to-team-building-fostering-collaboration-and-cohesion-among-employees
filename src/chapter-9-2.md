@@ -1,5 +1,4 @@
-Chapter 9: Sustaining Microlearning Efforts: Continuous Learning and Improvement
-================================================================================
+# Continuous Learning and Improvement
 
 Sustaining microlearning efforts is critical to the long-term success of team building efforts. Continuous learning and improvement are essential to ensure that microlearning remains effective and relevant over time. In this chapter, we will explore techniques for sustaining microlearning efforts through continuous learning and improvement.
 

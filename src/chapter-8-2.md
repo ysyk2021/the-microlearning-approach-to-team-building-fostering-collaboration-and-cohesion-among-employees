@@ -1,5 +1,4 @@
-Chapter 8: Measuring and Evaluating Microlearning Effectiveness: Establishing Key Performance Indicators (KPIs)
-===============================================================================================================
+# Establishing Key Performance Indicators (KPIs)
 
 Establishing Key Performance Indicators (KPIs) is critical to measuring and evaluating the effectiveness of microlearning initiatives. In this chapter, we will explore techniques for establishing KPIs that align with the goals of the microlearning initiative.
 

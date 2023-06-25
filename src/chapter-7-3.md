@@ -1,5 +1,4 @@
-Chapter 7: Enhancing Team Cohesion through Microlearning: Encouraging Interpersonal Connections
-===============================================================================================
+# Encouraging Interpersonal Connections
 
 Microlearning can be an effective tool for enhancing team cohesion by encouraging interpersonal connections among employees. In this chapter, we will explore how microlearning can be used to encourage interpersonal connections and foster team cohesion.
 

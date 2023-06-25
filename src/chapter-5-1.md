@@ -1,5 +1,4 @@
-Chapter 5: Engaging Employees through Microlearning: Techniques for Engaging Employees through Microlearning
-============================================================================================================
+# Techniques for Engaging Employees through Microlearning
 
 Engaging employees is critical to the success of any learning and development program, and microlearning can be an effective approach to engaging employees. In this chapter, we will explore techniques for engaging employees through microlearning.
 

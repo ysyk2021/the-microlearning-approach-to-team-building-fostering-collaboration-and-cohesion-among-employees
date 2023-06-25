@@ -1,5 +1,4 @@
-Chapter 3: Understanding Microlearning: Identifying Types of Microlearning Content
-==================================================================================
+# Identifying Types of Microlearning Content
 
 Microlearning is an approach to learning and development that delivers content in short, bite-sized chunks. There are many types of microlearning content that can be used to enhance team building and foster collaboration among employees. In this chapter, we will explore some of the most common types of microlearning content.
 

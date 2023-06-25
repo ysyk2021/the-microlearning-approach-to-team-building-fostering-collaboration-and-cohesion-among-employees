@@ -1,5 +1,4 @@
-Chapter 5: Engaging Employees through Microlearning: Delivering Bite-Sized Learning Opportunities
-=================================================================================================
+# Delivering Bite-Sized Learning Opportunities
 
 Engaging employees is critical to the success of any learning and development program, and microlearning can be an effective approach to engaging employees. In this chapter, we will explore techniques for delivering bite-sized learning opportunities that engage employees in the process.
 

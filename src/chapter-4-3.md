@@ -1,5 +1,4 @@
-Chapter 4: Creating a Culture of Learning and Development: Providing Access to Relevant Resources
-=================================================================================================
+# Providing Access to Relevant Resources
 
 Creating a culture of learning and development is crucial in promoting team building and fostering collaboration among employees. In this chapter, we will explore how providing access to relevant resources can help create a culture of learning and development.
 

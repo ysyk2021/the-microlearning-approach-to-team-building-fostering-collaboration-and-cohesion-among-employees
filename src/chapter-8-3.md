@@ -1,5 +1,4 @@
-Chapter 8: Measuring and Evaluating Microlearning Effectiveness: Analyzing Results and Making Improvements
-==========================================================================================================
+# Analyzing Results and Making Improvements
 
 Measuring and evaluating the effectiveness of microlearning efforts is critical to ensuring that they are achieving their intended goals. In this chapter, we will explore techniques for measuring and evaluating microlearning effectiveness, as well as making improvements based on the results.
 
