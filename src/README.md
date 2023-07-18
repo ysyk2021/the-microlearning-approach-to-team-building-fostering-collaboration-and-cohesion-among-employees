@@ -10,5 +10,4 @@ In addition, "The Microlearning Approach to Team Building" emphasizes the import
 
 This book is a valuable resource for anyone who wants to take their team building efforts to the next level. Whether you're an entrepreneur, manager, or someone interested in developing your team building skills, this book offers practical strategies and techniques that will help you create a stronger, more cohesive team. So, go ahead and explore the microlearning approach to team building -- your team will thank you for it!
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
