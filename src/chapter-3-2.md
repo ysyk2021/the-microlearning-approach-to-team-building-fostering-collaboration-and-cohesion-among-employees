@@ -1,7 +1,7 @@
 Identifying Types of Microlearning Content
 ===================================================
 
-In the book "**The Microlearning Approach to Team Building: Fostering Collaboration and Cohesion Among Employees**," this chapter focuses on identifying various types of microlearning content that can be used to enhance team building efforts. Understanding these different types of microlearning content allows organizations to design effective learning experiences tailored to their teams' specific needs.
+This chapter focuses on identifying various types of microlearning content that can be used to enhance team building efforts. Understanding these different types of microlearning content allows organizations to design effective learning experiences tailored to their teams' specific needs.
 
 Video-based Microlearning
 -------------------------

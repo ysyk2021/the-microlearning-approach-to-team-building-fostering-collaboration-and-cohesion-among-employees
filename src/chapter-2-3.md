@@ -1,7 +1,7 @@
 Techniques for Overcoming Common Challenges in Team Building
 =====================================================================
 
-In the book "The Microlearning Approach to Team Building: Fostering Collaboration and Cohesion Among Employees," this chapter focuses on exploring techniques for overcoming common challenges in team building. Building a cohesive and high-performing team is not without its obstacles, and understanding how to address these challenges can significantly enhance the success of team-building efforts.
+This chapter focuses on exploring techniques for overcoming common challenges in team building. Building a cohesive and high-performing team is not without its obstacles, and understanding how to address these challenges can significantly enhance the success of team-building efforts.
 
 Identifying Common Challenges
 -----------------------------
