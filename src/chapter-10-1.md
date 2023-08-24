@@ -1,4 +1,3 @@
-# Recap of Key Points and Strategies
 
 In this book, we have explored the microlearning approach to team building and how it can be used to foster collaboration and cohesion among employees. We have covered a range of topics, from understanding what microlearning is to creating effective microlearning content and delivering it to your team.
 

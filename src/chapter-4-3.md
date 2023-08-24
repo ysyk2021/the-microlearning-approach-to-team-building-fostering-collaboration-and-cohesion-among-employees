@@ -1,5 +1,3 @@
-Providing Access to Relevant Resources
-===============================================
 
 One of the key aspects of the microlearning approach to team building is providing access to relevant resources. This chapter explores techniques and strategies for ensuring that team members have access to the right resources, information, and tools they need to foster collaboration and cohesion. By offering easily accessible and up-to-date resources, organizations can empower their teams and enhance their performance in the workplace.
 

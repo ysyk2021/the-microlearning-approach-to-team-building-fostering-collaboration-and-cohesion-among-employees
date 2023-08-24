@@ -1,5 +1,3 @@
-Techniques for Measuring and Evaluating Microlearning Effectiveness
-============================================================================
 
 This chapter explores various techniques for measuring and evaluating the effectiveness of microlearning. Measuring and evaluating the impact of microlearning is crucial for teams to assess its effectiveness, identify areas of improvement, and optimize the learning experience for enhanced collaboration and cohesion.
 

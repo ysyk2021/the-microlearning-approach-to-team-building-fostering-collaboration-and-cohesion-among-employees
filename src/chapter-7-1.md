@@ -1,5 +1,3 @@
-Techniques for Enhancing Team Cohesion through Microlearning
-=====================================================================
 
 This chapter delves into various techniques for enhancing team cohesion through microlearning. Microlearning is a learner-centered approach that delivers small, bite-sized units of information or activities to learners. When strategically applied, microlearning can contribute to strengthening team cohesion and fostering a sense of unity among employees.
 

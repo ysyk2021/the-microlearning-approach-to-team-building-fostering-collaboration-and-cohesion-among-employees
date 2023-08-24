@@ -1,5 +1,3 @@
-Chapter 6: Developing Collaborative Skills through Microlearning
-================================================================
 
 Effective collaboration is critical to the success of any organization. Microlearning is an effective approach to team building that involves delivering bite-sized learning content to team members. By incorporating techniques for developing collaborative skills into microlearning, organizations can build strong, cohesive teams that work together effectively. In this chapter, we will explore techniques for developing collaborative skills through microlearning, including facilitating communication and feedback, and encouraging diversity and inclusion.
 

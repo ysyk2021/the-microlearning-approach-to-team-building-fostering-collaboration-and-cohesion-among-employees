@@ -1,5 +1,3 @@
-Facilitating Communication and Feedback
-================================================
 
 Effective communication and feedback are crucial elements in fostering collaboration and cohesion among employees. This chapter explores the role of communication and feedback in the microlearning approach to team building. It provides insights into various strategies and techniques that can facilitate open and meaningful communication, leading to improved teamwork and overall organizational success.
 

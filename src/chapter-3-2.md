@@ -1,5 +1,3 @@
-Identifying Types of Microlearning Content
-===================================================
 
 This chapter focuses on identifying various types of microlearning content that can be used to enhance team building efforts. Understanding these different types of microlearning content allows organizations to design effective learning experiences tailored to their teams' specific needs.
 

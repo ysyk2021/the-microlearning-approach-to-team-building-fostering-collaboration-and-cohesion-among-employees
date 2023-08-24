@@ -1,5 +1,3 @@
-Promoting Trust and Respect
-====================================
 
 This chapter focuses on the importance of promoting trust and respect within teams through microlearning. Trust and respect are crucial components for building strong, cohesive teams and fostering a positive work environment. Microlearning can be leveraged to foster trust and respect by addressing communication, empathy, diversity, and inclusivity within teams.
 

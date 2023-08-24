@@ -1,5 +1,3 @@
-Establishing Key Performance Indicators (KPIs)
-=======================================================
 
 This chapter delves into the importance of establishing Key Performance Indicators (KPIs) within the context of microlearning. KPIs provide teams with measurable goals and benchmarks for assessing their progress, performance, and overall success. By setting clear KPIs, teams can align their efforts, track their development, and continuously improve through microlearning.
 

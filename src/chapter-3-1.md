@@ -1,5 +1,3 @@
-Techniques for Understanding Microlearning
-===================================================
 
 This chapter explores various techniques for understanding microlearning. Microlearning is an effective instructional approach that delivers small, bite-sized content to learners, enabling them to acquire knowledge and skills in a focused and efficient manner. Understanding these techniques empowers organizations to implement microlearning strategies effectively for team building and enhancing collaboration and cohesion among employees.
 

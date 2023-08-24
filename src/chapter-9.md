@@ -1,5 +1,3 @@
-Chapter 9: Sustaining Microlearning Efforts
-===========================================
 
 Sustaining microlearning efforts is critical to ensuring that team members continue to develop their skills and knowledge over time. In this chapter, we will explore techniques for sustaining microlearning efforts, as well as the importance of continuous learning and improvement and adapting to changes in the workplace.
 

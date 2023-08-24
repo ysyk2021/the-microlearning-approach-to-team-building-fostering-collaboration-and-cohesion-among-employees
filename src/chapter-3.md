@@ -1,5 +1,3 @@
-Chapter 3: Understanding Microlearning
-======================================
 
 Microlearning is an approach to learning and development that delivers content in short, bite-sized chunks. It has become increasingly popular in recent years because of its effectiveness in promoting continuous learning and development among employees. In this chapter, we will explore techniques for understanding microlearning, identify types of microlearning content, and explore the relationship between microlearning and team building.
 

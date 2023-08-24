@@ -1,5 +1,3 @@
-Chapter 7: Enhancing Team Cohesion through Microlearning
-========================================================
 
 Team cohesion is critical to the success of any organization, and microlearning can be an effective approach to enhancing team cohesion. In this chapter, we will explore techniques for enhancing team cohesion through microlearning, including promoting trust and respect, and encouraging interpersonal connections.
 

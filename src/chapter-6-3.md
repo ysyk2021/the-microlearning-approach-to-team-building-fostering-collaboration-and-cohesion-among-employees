@@ -1,5 +1,3 @@
-Encouraging Diversity and Inclusion
-============================================
 
 Encouraging diversity and inclusion is a vital aspect of the microlearning approach to team building. This chapter explores techniques and strategies that organizations can employ to foster a diverse and inclusive workplace. By embracing diversity and creating an inclusive environment, teams can tap into a wide range of perspectives, experiences, and ideas, leading to enhanced collaboration, innovation, and overall organizational success.
 

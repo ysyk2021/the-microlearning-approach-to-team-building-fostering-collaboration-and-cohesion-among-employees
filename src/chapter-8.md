@@ -1,5 +1,3 @@
-Chapter 8: Measuring and Evaluating Microlearning Effectiveness
-===============================================================
 
 Measuring and evaluating the effectiveness of microlearning in team building is essential to ensure that it is achieving its intended outcomes. In this chapter, we will explore techniques for measuring and evaluating microlearning effectiveness, establishing key performance indicators (KPIs), and analyzing results to make improvements.
 

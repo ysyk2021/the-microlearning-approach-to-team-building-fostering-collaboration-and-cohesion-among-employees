@@ -1,4 +1,3 @@
-# Future Directions for Research and Practice
 
 In this book, we have explored the role of microlearning in team building and how it can be used to foster collaboration and cohesion among employees. We have discussed techniques for creating effective microlearning content and overcoming common challenges in team building.
 

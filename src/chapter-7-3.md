@@ -1,5 +1,3 @@
-Encouraging Interpersonal Connections
-==============================================
 
 This chapter explores the significance of encouraging interpersonal connections within teams through microlearning. Strong interpersonal connections contribute to a positive team dynamic, foster trust and collaboration, and enhance overall team performance. Microlearning can be leveraged to facilitate meaningful interactions, build relationships, and create a sense of community within teams.
 
